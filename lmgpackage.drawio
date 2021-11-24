@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T09:03:51.526Z" agent="5.0 (X11)" etag="JMubF3ajBkazBF1dWAmJ" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T09:52:40.091Z" agent="5.0 (X11)" etag="S8KWygwyJp5gUcQnrWFv" version="15.8.4" type="github">
   <diagram id="Ng_SGSZV4RMIjECyI89O" name="第 1 页">
     <mxGraphModel dx="1152" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry x="260" y="410" width="411" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="255.5" y="220" width="70" height="72" as="geometry" />
+          <mxGeometry x="255.5" y="221" width="70" height="72" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="415" y="220" width="256" height="137" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-7" value="meta信息" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="272" width="70" height="20" as="geometry" />
+          <mxGeometry x="255.5" y="250" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="242" width="150" height="90" as="geometry" />
@@ -55,10 +55,7 @@
         <mxCell id="vJngqabf1iKPreX5U7tw-24" value="file4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="607" y="282" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vJngqabf1iKPreX5U7tw-26" value="xxx.yaml" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
-          <mxGeometry x="265.5" y="230" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vJngqabf1iKPreX5U7tw-28" value="source文件安装脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="vJngqabf1iKPreX5U7tw-28" value="source目录文件安装脚本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="260" y="297" width="66" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;direction=south;" vertex="1" parent="1">
@@ -75,15 +72,6 @@
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-37" value="&lt;font style=&quot;font-size: 24px&quot;&gt;lmg&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445.5" y="460" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vJngqabf1iKPreX5U7tw-72" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontSize=12;strokeWidth=2;fillColor=none;entryX=0;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="329.02" as="sourcePoint" />
-            <mxPoint x="260" y="329.02" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vJngqabf1iKPreX5U7tw-63" value="&lt;font style=&quot;font-size: 12px&quot;&gt;当lmg类型为资源文件时，此文件存在&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="50" y="299" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-68" value="原始包信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="50" y="364" width="120" height="40" as="geometry" />
@@ -105,13 +93,13 @@
         <mxCell id="vJngqabf1iKPreX5U7tw-80" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;dashPattern=1 1;fontSize=12;strokeWidth=2;fillColor=none;" edge="1" parent="1" source="vJngqabf1iKPreX5U7tw-79" target="vJngqabf1iKPreX5U7tw-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="430" />
-              <mxPoint x="160" y="430" />
+              <mxPoint x="230" y="430" />
+              <mxPoint x="230" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vJngqabf1iKPreX5U7tw-79" value="和Base os，抽象层分离后的app应用镜像文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#9999FF;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="vJngqabf1iKPreX5U7tw-79" value="&lt;div&gt;与运行时抽象层分离后的app应用镜像文件(&lt;font color=&quot;#EA6B66&quot;&gt;当为资源包时，App Image不存在&lt;/font&gt;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#9999FF;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-82" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;dashPattern=1 1;fontSize=12;strokeWidth=2;fillColor=none;" edge="1" parent="1" source="vJngqabf1iKPreX5U7tw-81">
           <mxGeometry relative="1" as="geometry">
@@ -126,6 +114,14 @@
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-83" value="暴露于宿主机中的文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#E1D5E7;" vertex="1" parent="1">
           <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vJngqabf1iKPreX5U7tw-89" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;dashed=1;dashPattern=1 1;fontSize=12;fontColor=none;strokeWidth=2;fillColor=none;" edge="1" parent="1" target="vJngqabf1iKPreX5U7tw-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="327" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJngqabf1iKPreX5U7tw-90" value="当lmg为资源安装包时，此脚本存在" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="297" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
