@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T13:13:13.164Z" agent="5.0 (X11; Linux mips64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.217 Safari/537.36 Lbrowser/3.1.5634.3" etag="I3hmD7XQqutuE7qJoF62" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T01:06:49.610Z" agent="5.0 (X11; Linux mips64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.217 Safari/537.36 Lbrowser/3.1.5634.3" etag="Zi8RahIx1S6wl-TjEAf4" version="15.8.6" type="github">
   <diagram id="Ng_SGSZV4RMIjECyI89O" name="第 1 页">
     <mxGraphModel dx="1422" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
         <mxCell id="y6ysvMp0rM8THR1gRx0z-31" value="包后缀" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;glass=0;sketch=0;fontSize=12;fontColor=#ffffff;" parent="QX6y-ECWob6AIkvAz6DZ-1" vertex="1">
           <mxGeometry x="415" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3OuxJ7eSdL5V81uERl29-7" value="与Base image抽象分离后的app image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="3OuxJ7eSdL5V81uERl29-7" value="与Base image抽象分离后的app镜像层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="49" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3OuxJ7eSdL5V81uERl29-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;dashed=1;strokeWidth=4;" vertex="1" parent="1">
