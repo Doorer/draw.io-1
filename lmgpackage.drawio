@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T03:25:59.785Z" agent="5.0 (X11; Linux mips64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.217 Safari/537.36 Lbrowser/3.1.5634.3" etag="x5HEvt6ZGozo7Xs_v-fS" version="15.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-16T02:35:15.869Z" agent="5.0 (X11; Linux mips64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.217 Safari/537.36 Lbrowser/3.1.5634.3" etag="YyUtfNDt__ASvOqB9b8s" version="15.9.6" type="github" pages="2">
   <diagram id="Ng_SGSZV4RMIjECyI89O" name="第 1 页">
     <mxGraphModel dx="1422" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,16 +7,16 @@
         <mxCell id="vJngqabf1iKPreX5U7tw-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="250" y="210" width="430" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="vJngqabf1iKPreX5U7tw-36" value="BaseInfo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vJngqabf1iKPreX5U7tw-36" value="BaseInfo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="260" y="364" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vJngqabf1iKPreX5U7tw-2" value="App Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;dashed=1;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="vJngqabf1iKPreX5U7tw-2" value="Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;dashed=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="260" y="410" width="411" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="260" y="221" width="65.5" height="139" as="geometry" />
+          <mxGeometry x="260" y="222" width="65.5" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="vJngqabf1iKPreX5U7tw-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="vJngqabf1iKPreX5U7tw-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;dashed=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="415" y="220" width="256" height="137" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-7" value="meta信息" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
@@ -101,10 +101,10 @@
         <mxCell id="vJngqabf1iKPreX5U7tw-83" value="暴露于宿主机中的文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#E1D5E7;" parent="1" vertex="1">
           <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3OuxJ7eSdL5V81uERl29-7" value="与Base image抽象分离后的app镜像层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="3OuxJ7eSdL5V81uERl29-7" value="Image层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="49" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3OuxJ7eSdL5V81uERl29-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;dashed=1;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="3OuxJ7eSdL5V81uERl29-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;dashed=1;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="420" y="230" width="84.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vJngqabf1iKPreX5U7tw-15" value="desktop文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -113,7 +113,7 @@
         <mxCell id="vJngqabf1iKPreX5U7tw-13" value="icon图标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="425.28125" y="275.5" width="73.9375" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3OuxJ7eSdL5V81uERl29-4" value="AppData" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3OuxJ7eSdL5V81uERl29-4" value="AppData" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430.5" y="315.5" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
