@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T07:55:03.440Z" agent="5.0 (X11; Linux mips64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.217 Safari/537.36 Lbrowser/3.1.5634.3" etag="AnT6F03qrkkPXsbhy3eU" version="16.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-08T08:00:26.569Z" agent="5.0 (X11; Linux mips64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.217 Safari/537.36 Lbrowser/3.1.5634.3" etag="yM_4X-0tkIqStSvXBGWW" version="16.4.8" type="github" pages="2">
   <diagram id="Fdk4tDik98o-y0DdTQnE" name="第 1 页">
-    <mxGraphModel dx="1185" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,90 +14,90 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UMqaF7nRJnWzPU_xDixw-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#6d8764;strokeColor=#3A5431;rounded=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="260" y="-120" width="100" height="60" as="geometry" />
+          <mxGeometry x="552" y="-1090" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMqaF7nRJnWzPU_xDixw-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="200" as="targetPoint" />
+            <mxPoint x="602" y="-770" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="182" y="160" />
-              <mxPoint x="310" y="160" />
+              <mxPoint x="474" y="-810" />
+              <mxPoint x="602" y="-810" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UMqaF7nRJnWzPU_xDixw-2" value="双击桌面图标调用desktop文件的Exec行命令" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#36393d;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="122" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Unuxi51Q6prLjTuZSmVG-23" target="UjKAss_wm5w3mMdC5Eye-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Unuxi51Q6prLjTuZSmVG-23" value="调用运行器" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="542" y="-770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-1" target="UMqaF7nRJnWzPU_xDixw-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-1" value="桌面类应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="-10" width="120" height="40" as="geometry" />
+          <mxGeometry x="414" y="-980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-8" target="UjKAss_wm5w3mMdC5Eye-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-8" value="命令类应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-10" width="120" height="40" as="geometry" />
+          <mxGeometry x="542" y="-980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-9" target="UjKAss_wm5w3mMdC5Eye-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-9" value="服务类应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-10" width="120" height="40" as="geometry" />
+          <mxGeometry x="682" y="-980" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-12" target="Unuxi51Q6prLjTuZSmVG-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-12" value="命令行输入启动命令" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="542" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-13" target="Unuxi51Q6prLjTuZSmVG-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="160" />
-              <mxPoint x="310" y="160" />
+              <mxPoint x="742" y="-810" />
+              <mxPoint x="602" y="-810" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-13" value="命令行通过systemd启动命令" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="682" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-21" target="UjKAss_wm5w3mMdC5Eye-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-21" value="获取传入的包名称和命令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="250" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="542" y="-690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-23" target="UjKAss_wm5w3mMdC5Eye-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-23" value="根据包名定位到yaml文件位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="250" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="542" y="-620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-25" target="UjKAss_wm5w3mMdC5Eye-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-25" value="读取yaml文件，获取应用名称，应用版本，权限，多开字段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="245" y="420" width="130" height="60" as="geometry" />
+          <mxGeometry x="537" y="-550" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-27" target="UjKAss_wm5w3mMdC5Eye-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-27" value="通过应用名称和应用版本，组装出应用所属的容器名称" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="510" width="130" height="60" as="geometry" />
+          <mxGeometry x="537" y="-460" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-30" target="UjKAss_wm5w3mMdC5Eye-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-30" value="获取容器的状态" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="600" width="130" height="20" as="geometry" />
+          <mxGeometry x="537" y="-370" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-32" target="UjKAss_wm5w3mMdC5Eye-35">
           <mxGeometry relative="1" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-32" value="running" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="270" y="650" width="80" height="50" as="geometry" />
+          <mxGeometry x="562" y="-320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-35" target="UjKAss_wm5w3mMdC5Eye-57">
           <mxGeometry relative="1" as="geometry" />
@@ -130,13 +130,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-35" value="exited" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="420" y="705" width="80" height="50" as="geometry" />
+          <mxGeometry x="712" y="-265" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-41" target="UjKAss_wm5w3mMdC5Eye-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-41" value="判断多开字段是否为1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="250" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="542" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-46" target="UjKAss_wm5w3mMdC5Eye-50">
           <mxGeometry relative="1" as="geometry" />
@@ -155,52 +155,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-46" value="为1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="270" y="820" width="80" height="50" as="geometry" />
+          <mxGeometry x="562" y="-150" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-50" target="UjKAss_wm5w3mMdC5Eye-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-50" value="通过已有容器，调用热启动方式，启动应用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="250" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="542" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-53" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1270" width="100" height="60" as="geometry" />
+          <mxGeometry x="552" y="300" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-57" target="UjKAss_wm5w3mMdC5Eye-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-57" value="通过权限字段，准备环境变量，需要挂载的设备，需要共享的目录" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="692" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-60" target="UjKAss_wm5w3mMdC5Eye-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="182" y="1230" />
-              <mxPoint x="310" y="1230" />
+              <mxPoint x="474" y="260" />
+              <mxPoint x="602" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-60" value="通过窗口/命令行提示用户，应用已经启动" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="122" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UjKAss_wm5w3mMdC5Eye-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="970" as="sourcePoint" />
-            <mxPoint x="310" y="1180" as="targetPoint" />
+            <mxPoint x="752" as="sourcePoint" />
+            <mxPoint x="602" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="1230" />
-              <mxPoint x="310" y="1230" />
+              <mxPoint x="752" y="260" />
+              <mxPoint x="602" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-64" value="通过应用名称和应用版本，组装出应用所属的镜像，启动镜像，启动应用" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="692" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-68" target="UjKAss_wm5w3mMdC5Eye-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-68" value="获取退出码" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="760" width="120" height="35" as="geometry" />
+          <mxGeometry x="1112" y="-210" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-99" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-71" target="UjKAss_wm5w3mMdC5Eye-80">
           <mxGeometry relative="1" as="geometry" />
@@ -209,31 +209,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-71" value="为0，137，255" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="840" y="830" width="80" height="50" as="geometry" />
+          <mxGeometry x="1132" y="-140" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="1270" as="targetPoint" />
+            <mxPoint x="602" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="880" y="1230" />
-              <mxPoint x="310" y="1230" />
+              <mxPoint x="1172" y="260" />
+              <mxPoint x="602" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-80" value="提示用户，容器出错，删除容器" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="1112" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-87" target="UjKAss_wm5w3mMdC5Eye-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-87" value="获取退出容器的command，和传入的command是否一样" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="670" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="962" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-88" target="UjKAss_wm5w3mMdC5Eye-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="1120" />
-              <mxPoint x="730" y="1120" />
+              <mxPoint x="1022" y="150" />
+              <mxPoint x="1022" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -246,24 +246,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-88" value="一样" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="690" y="986" width="80" height="50" as="geometry" />
+          <mxGeometry x="982" y="16" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-89" target="UjKAss_wm5w3mMdC5Eye-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="1230" />
-              <mxPoint x="310" y="1230" />
+              <mxPoint x="1022" y="260" />
+              <mxPoint x="602" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-89" value="重新启动已有的容器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1061" width="120" height="60" as="geometry" />
+          <mxGeometry x="962" y="91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UjKAss_wm5w3mMdC5Eye-96" target="UjKAss_wm5w3mMdC5Eye-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjKAss_wm5w3mMdC5Eye-96" value="删除已经的容器" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1063" width="90" height="60" as="geometry" />
+          <mxGeometry x="862" y="93" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
